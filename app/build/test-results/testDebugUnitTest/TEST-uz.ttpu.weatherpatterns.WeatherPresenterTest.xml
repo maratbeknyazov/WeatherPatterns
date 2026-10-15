@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.ttpu.weatherpatterns.WeatherPresenterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-15T11:34:46" hostname="ALBERT" time="0.043">
+  <properties/>
+  <testcase name="known_city_shows_loading_then_weather" classname="uz.ttpu.weatherpatterns.WeatherPresenterTest" time="0.041"/>
+  <testcase name="unknown_city_shows_loading_then_error" classname="uz.ttpu.weatherpatterns.WeatherPresenterTest" time="0.001"/>
+  <testcase name="two_requests_in_a_row_show_two_loading_events" classname="uz.ttpu.weatherpatterns.WeatherPresenterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

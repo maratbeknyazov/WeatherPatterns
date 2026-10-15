@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.ttpu.weatherpatterns.WeatherMviViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-15T11:34:46" hostname="ALBERT" time="0.24">
+  <properties/>
+  <testcase name="selecting_a_known_city_ends_with_weather_and_no_loading" classname="uz.ttpu.weatherpatterns.WeatherMviViewModelTest" time="0.237"/>
+  <testcase name="dismissing_the_error_clears_it_and_keeps_the_old_weather" classname="uz.ttpu.weatherpatterns.WeatherMviViewModelTest" time="0.002"/>
+  <testcase name="selecting_an_unknown_city_ends_with_error" classname="uz.ttpu.weatherpatterns.WeatherMviViewModelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

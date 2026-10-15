@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.ttpu.weatherpatterns.WeatherRepositoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-15T11:34:46" hostname="ALBERT" time="0.011">
+  <properties/>
+  <testcase name="unknown_city_returns_failure" classname="uz.ttpu.weatherpatterns.WeatherRepositoryTest" time="0.008"/>
+  <testcase name="known_city_returns_success" classname="uz.ttpu.weatherpatterns.WeatherRepositoryTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
